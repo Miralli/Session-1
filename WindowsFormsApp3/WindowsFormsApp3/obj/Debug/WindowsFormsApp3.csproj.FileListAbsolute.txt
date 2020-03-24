@@ -1,0 +1,27 @@
+C:\Users\СеребряковАС\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\СеребряковАС\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\СеребряковАС\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\СеребряковАС\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\СеребряковАС\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\СеребряковАС\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\СеребряковАС\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\СеребряковАС\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\СеребряковАС\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\СеребряковАС\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\СеребряковАС\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+C:\Users\СеребряковАС\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form3.resources
+C:\Users\СеребряковАС\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form4.resources
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Серебряков АС\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Серебряков АС\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Серебряков АС\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Серебряков АС\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Form1.resx
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Серебряков АС\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Серебряков АС\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Серебряков АС\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Серебряков АС\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Серебряков АС\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Серебряков АС\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form3.resources
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Серебряков АС\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form4.resources
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Серебряков АС\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Серебряков АС\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Серебряков АС\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
